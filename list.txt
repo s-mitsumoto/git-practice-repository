@@ -3,3 +3,5 @@ memberList
 alice
 bob
 sum
+banana
+apple
